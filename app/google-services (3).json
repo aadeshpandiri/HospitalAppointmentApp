@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "689670255718",
+    "firebase_url": "https://cliniconotp.firebaseio.com",
+    "project_id": "cliniconotp",
+    "storage_bucket": "cliniconotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689670255718:android:d6374258c7ff29d217a9a7",
+        "android_client_info": {
+          "package_name": "com.example.c1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689670255718-nf2deaqln2qjgo11kh2slsm7ke7pbes1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.c1",
+            "certificate_hash": "16730ae382501eacf9ef9dd3fa7e0c947cf33e15"
+          }
+        },
+        {
+          "client_id": "689670255718-5821br1ildodd07t6edb3pme6366psuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs7vOm2_EWM1WmqGhT8jhcMAF9jzbPEew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689670255718-5821br1ildodd07t6edb3pme6366psuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
